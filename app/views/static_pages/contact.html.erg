@@ -1,6 +1,7 @@
-<h1>Dit is een titel!</h1>
+<% provide(:title, 'Contact') %>
+<h1>Nikos Kostis</h1>
 <p>
-This is the home page for the
+This is the contact page  of the
 <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
 sample application.
 </p>
